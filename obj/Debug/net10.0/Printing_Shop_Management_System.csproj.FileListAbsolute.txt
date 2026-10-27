@@ -1,0 +1,16 @@
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\bin\Debug\net10.0\Printing_Shop_Management_System.exe
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\bin\Debug\net10.0\Printing_Shop_Management_System.deps.json
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\bin\Debug\net10.0\Printing_Shop_Management_System.runtimeconfig.json
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\bin\Debug\net10.0\Printing_Shop_Management_System.dll
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\bin\Debug\net10.0\Printing_Shop_Management_System.pdb
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.AssemblyInfoInputs.cache
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.AssemblyInfo.cs
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.sourcelink.json
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.dll
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\refint\Printing_Shop_Management_System.dll
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.pdb
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing_Shop_Management_System.genruntimeconfig.cache
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\ref\Printing_Shop_Management_System.dll
+C:\Users\Thinkpad E14\source\repos\nicole012323-pixel\Nicole-c-\obj\Debug\net10.0\Printing.13D1BB8C.Up2Date

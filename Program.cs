@@ -32,11 +32,12 @@ namespace Printing_Shop_Management_System
                 }
                 else if (choice == "3")
                 {
-                    ViewCustomerOrders(orderCustomers, orderSizes, orderCopies, orderStatuses);
+                    UpdateOrderStatus(orderCustomers, orderSizes, orderCopies, orderStatuses);
                 }
+                
                 else if (choice == "4")
                 {
-                    UpdateOrderStatus(orderCustomers, orderSizes, orderCopies, orderStatuses);
+                    ViewCustomerOrders(orderCustomers, orderSizes, orderCopies, orderStatuses);
                 }
                 else if (choice == "5")
                 {
@@ -60,18 +61,19 @@ namespace Printing_Shop_Management_System
             Console.WriteLine("----- Staff / Owner View -----");
             Console.WriteLine("1. Add customer");
             Console.WriteLine("2. Create order");
-            Console.WriteLine("4. Update order status");
+            Console.WriteLine("3. Update order status");
+            Console.WriteLine("4. View Customer order");
             Console.WriteLine("5. View all customers");
             Console.WriteLine("");
             Console.WriteLine("----- Customer View -----");
-            Console.WriteLine("3. View Customer order");
-            Console.WriteLine("");
             Console.WriteLine("0. Exit");
+            Console.WriteLine("");
             Console.Write("Choose an option: ");
         }
 
         static void AddCustomer(List<string> customers)
         {
+            Console.WriteLine("");
             Console.Write("Enter customer name: ");
             string name = Console.ReadLine();
 
@@ -110,6 +112,7 @@ namespace Printing_Shop_Management_System
                 Console.WriteLine("4. exit");
                 Console.WriteLine("");
                 Console.Write("Choose the size of paper: ");
+                Console.WriteLine("");
 
                 string order = Console.ReadLine();
                 string paperSize = "";
@@ -145,6 +148,8 @@ namespace Printing_Shop_Management_System
                 {
                     Console.WriteLine("");
                     Console.Write("Enter number of copies: ");
+                    Console.WriteLine("");
+
                     int copies = Convert.ToInt16(Console.ReadLine());
 
                     int totalPrice = businesslogic.ComputePrice(paperSize, copies);
